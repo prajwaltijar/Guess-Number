@@ -1,0 +1,79 @@
+#sham{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#game{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+#ram{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+  
+  text-transform: uppercase;
+}
+#number{
+  display: flex;
+ flex-direction: column;
+  border-radius: 7px;
+  font-size: 20px;
+  border: solid black;
+
+}
+#b{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+ 
+  background-color: #09e82e;
+  border:solid rgb(16, 15, 15);
+  border-radius: 20px;
+  font-size: 25px;
+}
+#no{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+  
+  font-size: 21px;
+}
+#no2{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+  margin: auto;
+  font-size: 21px;
+  color: red;
+  font-weight: bolder;
+}
+#time{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+ 
+}
+#jadu{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+  
+  font-size: 25px;
+  color: rgb(9, 46, 232);
+  
+}
+.lowOrHi{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+ margin: auto;
+}
+#resultPass{
+  display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+
